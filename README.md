@@ -97,3 +97,4 @@
         git grep -e '#define' --and -e SORT_DIRENT
         git gc
         git fsck
+
