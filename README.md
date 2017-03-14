@@ -9,4 +9,5 @@
 悄悄的我走了， 正如我悄悄的来； 我挥一挥衣袖， 不带走一片云彩。
 
 
-### [1 github 常见指令（转载）](githubI.md) [转载出处](https://gist.github.com/guweigang/9848271)　
+### [1 github 常见指令（转载）](githubI.md) [转载出处](https://gist.github.com/guweigang/9848271)
+### [2 vim常见指令](vimI.md)
