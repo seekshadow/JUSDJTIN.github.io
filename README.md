@@ -9,7 +9,7 @@
 悄悄的我走了， 正如我悄悄的来； 我挥一挥衣袖， 不带走一片云彩。
 
 
-### github 常见指令转载 [转载出处](#https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwiNrsa1v9XSAhXFfrwKHXLsDUQQFggYMAA&url=%68%74%74%70%73%3a%2f%2f%67%69%73%74%2e%67%69%74%68%75%62%2e%63%6f%6d%2f%67%75%77%65%69%67%61%6e%67%2f%39%38%34%38%32%37%31&usg=AFQjCNG7VlCCuA1zRCsPstwsdJkpIhVJhg)　
+### github 常见指令（转载） [转载出处](#https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwiNrsa1v9XSAhXFfrwKHXLsDUQQFggYMAA&url=%68%74%74%70%73%3a%2f%2f%67%69%73%74%2e%67%69%74%68%75%62%2e%63%6f%6d%2f%67%75%77%65%69%67%61%6e%67%2f%39%38%34%38%32%37%31&usg=AFQjCNG7VlCCuA1zRCsPstwsdJkpIhVJhg)　
 
         git init                                                  # 初始化本地git仓库（创建新仓库）
         git config --global user.name "xxx"                       # 配置用户名
