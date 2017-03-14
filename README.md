@@ -13,6 +13,6 @@
 ### [2 vim常见指令](vimI.md) 
 ### [3 谁说萨德很牛，看局座给你分析-萨德：绣花枕头烂草包](https://youtu.be/nyu9xWSkhDI)
 ### 4 IPV6翻墙
-    * 将本[hosts](hosts)文件替换电脑的hosts文件即可
+  * 将本[hosts](hosts)文件替换电脑的hosts文件即可
 
 ### [5 linux 查看版本信息](Linuxattr.md)
