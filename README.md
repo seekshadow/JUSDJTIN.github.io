@@ -10,8 +10,3 @@
 
 
 ### [github 常见指令（转载）](test.md) [转载出处](https://gist.github.com/guweigang/9848271)　
-
-
-
-### 我也连接到测试页 
-        [testpage](test.md)
