@@ -10,4 +10,4 @@
 
 
 ### [1 github 常见指令（转载）](githubI.md) [转载出处](https://gist.github.com/guweigang/9848271)
-### [2 vim常见指令](vimI.md)
+### [2 vim常见指令](vimI.md) 
